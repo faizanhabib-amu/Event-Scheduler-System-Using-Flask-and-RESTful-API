@@ -1,4 +1,4 @@
-# Event-Scheduler-System-Using-Flask-and-RESTful-API
+# Event Scheduler System
 
 This is a simple Python Flask app that acts as a RESTful API for event management. It allows users to interact with event data through HTTP requests. The app enables users to:
 
